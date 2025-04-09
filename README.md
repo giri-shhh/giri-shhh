@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Girisha Prakash
 ### *Senior Software Engineer*  
-*(e.g., "Full-Stack Developer Building Scalable Solutions" , Quantum Programming & AI Explorer")*
+*(Full-Stack Developer Building Scalable Solutions, Interested in Quantum Programming)*
 
 ---
 
 ## 🚀 About Me  
-I'm a Passionate based in Banglore. With 7 years of experience in web development. I thrive on turning complex problems into elegant solutions. When I'm not coding, you'll find me "reading tech blogs", "hiking", or "experimenting with new technologies, designs and solutions".
+I'm a Passionate based in Banglore. With 7 years of experience in web development. I thrive on turning complex problems into elegant solutions. When I'm not coding, you'll find me "reading tech blogs", "hiking", "swimming", "bike riding" or "dancing.
 
 **What drives me:**  
 - 💡 Building products that solve real-world challenges  
