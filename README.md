@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a Passionate based in Banglore. With 7 years of experience in web development. I thrive on turning complex problems into elegant solutions. When I'm not coding, you'll find me "reading tech blogs", "hiking", "swimming", "bike riding" or "dancing.
+I'm a Passionate web developer based in Banglore with 7 years of experience. I thrive on turning complex problems into elegant solutions. When I'm not coding, you'll find me "reading tech blogs", "hiking", "swimming", "bike riding" or "dancing.
 
 **What drives me:**  
 - 💡 Building products that solve real-world challenges  
