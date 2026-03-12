@@ -5,11 +5,6 @@
 
 ---
 ## 📈 GitHub Activity  
-- 🔨 Currently building: Spring Starter GUI
-- 🌱 Learning: 
-- 👯 Looking to collaborate: 
-- 📫 How to reach me: [Your email/LinkedIn/Twitter]  
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=giri-shhh&show_icons=true&theme=dark)
 
 
