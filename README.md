@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Girisha Prakash 
 
 ### *Senior Software Engineer*  
-*(Full-Stack Developer Building Scalable Solutions, Interested in Quantum Programming)*
+*(Senior Full-Stack Developer Building Scalable Solutions, Interested in Quantum Programming)*
 
 ---
 ## 📈 GitHub Activity  
