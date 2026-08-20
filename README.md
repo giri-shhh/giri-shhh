@@ -9,4 +9,4 @@ https://www.girishhh.in
 - 📧 Email: pgirisha77@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/girishap/
 - 🐦 Twitter: https://www.linkedin.com/in/girishap/
-- 🌐 Portfolio: [https://main.d1qmd4dvnaeydv.amplifyapp.com/](https://www.girishhh.in)
+- 🌐 Portfolio: https://www.girishhh.in
